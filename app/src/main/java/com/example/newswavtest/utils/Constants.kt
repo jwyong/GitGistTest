@@ -11,7 +11,7 @@ const val DATABASE_VERSION = 7
  **/
 // specify username + access token here
 const val USER_NAME = "jwyong"
-const val ACCESS_TOKEN = "8a34d38ca35830cf9c4f618dffc1d50ee3ed090c"
+const val ACCESS_TOKEN = "c8d5a1dba883193caa37fab79c981884b591ebba"
 
 /**
  * intent extra keys
